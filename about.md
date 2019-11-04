@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am Ivan and I enjoy working creating Emacs Packages and improving Emacs ecosyste.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yyoncho@gmail.com](mailto:yyoncho@gmail.com)
